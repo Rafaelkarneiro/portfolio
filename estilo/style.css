@@ -99,7 +99,8 @@ body {
 }
 
 .portfolio {
-    max-width: 886px;
+    /*max-width: 886px;*/
+    max-width: 1200px;
     box-sizing: border-box;
     padding: 4em 2.5rem;
 }
